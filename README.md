@@ -2,18 +2,11 @@
 - 🎓 Master’s in Information Systems - Northeastern University, San Jose
 - 🎯 Looking for Software Engineer roles in Full-Stack, Frontend/Backend, or Salesforce Development
 -  💻 Previously: Full Stack Engineer @ Nacho Nacho
-- 🔍 Technical Interests: Web Development 🌍 | Backend Engineering ⚙️ | Data Structures & Algorithms 📊 | API Development 🔗
+- 🔍 Technical Interests: Web Development 🌍 | Backend Engineering ⚙️ | Data Structures & Algorithms 📊 | Salesforce Development 🔗
 - 📍 Fremont, CA
 - 📌 [LinkedIn](https://linkedin.com/in/aishwarya-kulkarni125/) | 📧 [Email](mailto:kulkarni.aish@northeastern.edu)
   
----
-### 💡 About Me & What I Do
--  Software Engineer with expertise in Full-Stack Development, Salesforce Applications, and Frontend/Backend Engineering.
--  Built scalable web applications using React, Next.js, GraphQL, and TypeScript, enhancing performance and user experience.
--  Optimized AWS S3 storage to improve data retrieval efficiency, ensuring seamless cloud-based operations.
--  Experienced in Salesforce development, leveraging Apex, JavaScript, Lightning Web Components, and SOQL for CRM solutions.
--  Developed a Product Management Course for Coursera, affiliated with Northeastern University, incorporating Agile methodologies, SDLC principles, and Enterprise Architecture.
--  Passionate about problem-solving, clean code, and scalable architectures while continuously improving development workflows.
+
 ---
 
 
