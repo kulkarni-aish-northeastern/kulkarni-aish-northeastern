@@ -40,7 +40,8 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni-aish-northeastern&layout=compact&theme=radical" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni-aish-northeastern&layout=compact&theme=radical" width="40%" />
+
 </p>
 
 ---
