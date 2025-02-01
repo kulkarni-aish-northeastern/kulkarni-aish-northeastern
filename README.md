@@ -1,10 +1,10 @@
-### 👋 Hi, I'm Aishwarya Kulkarni! 👩🏻‍💻
-- 🎓 Master’s in Information Systems - Northeastern University, San Jose
-- 🎯 Looking for Software Engineer roles in Full-Stack, Frontend/Backend, or Salesforce Development
--  💻 Previously: Full Stack Engineer @ Nacho Nacho
-- 🔍 Technical Interests: Web Development 🌍 | Backend Engineering ⚙️ | Data Structures & Algorithms 📊 | Salesforce Development 🔗
-- 📍 Fremont, CA
-- 📌 [LinkedIn](https://linkedin.com/in/aishwarya-kulkarni125/) | 📧 [Email](mailto:kulkarni.aish@northeastern.edu)
+# 👋 Hi, I'm Aishwarya Kulkarni! 👩🏻‍💻
+### - 🎓 Master’s in Information Systems - Northeastern University, San Jose
+### - 🎯 Looking for Software Engineer roles in Full-Stack, Backend or Frontend Development
+### -  💻 Previously: Full Stack Engineer @ Nacho Nacho
+### - 🔍 Technical Interests: Web Development 🌍 | Backend Engineering ⚙️ | Data Structures & Algorithms 📊 | Salesforce Development 🔗
+### - 📍 Fremont, CA
+### - 📌 [LinkedIn](https://linkedin.com/in/aishwarya-kulkarni125/) | 📧 [Email](mailto:kulkarni.aish@northeastern.edu)
   
 
 ---
