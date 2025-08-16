@@ -4,7 +4,7 @@
  -  💻 Previously: Full Stack Engineer @ Nacho Nacho
  - 🔍 Technical Interests: Web Development 🌍 | Backend Engineering ⚙️ | Data Structures & Algorithms 📊 | Salesforce Development 🔗
  - 📍 Fremont, CA
- - 📌 [LinkedIn](https://linkedin.com/in/aishwarya-kulkarni125/) | 📧 [Email](mailto:kulkarni.aish@northeastern.edu) | [Portfolio](https://aish-folio-showcase.lovable.app/)
+ - 📌 [LinkedIn](https://linkedin.com/in/aishwarya-kulkarni125/) | 📧 [Email](mailto:kaishwarya125@gmail.com) | [Portfolio](https://aish-folio-showcase.lovable.app/)
  
 
 ---
